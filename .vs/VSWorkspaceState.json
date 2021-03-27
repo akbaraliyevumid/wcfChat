@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChatClient",
+    "\\ChatHost",
+    "\\wcf_chat"
+  ],
+  "SelectedNode": "\\ChatHost\\ChatHost.csproj",
+  "PreviewInSolutionExplorer": false
+}

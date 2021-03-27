@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcf_chat", "wcf_chat.csproj", "{5AC51E1E-CD1A-472C-834E-9684C4E8D164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHost", "..\ChatHost\ChatHost.csproj", "{FD8316E2-D519-4FE6-9FEF-C1C116757DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "..\ChatClient\ChatClient.csproj", "{6432C391-3E38-4036-9EB7-4960E66992D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC51E1E-CD1A-472C-834E-9684C4E8D164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC51E1E-CD1A-472C-834E-9684C4E8D164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC51E1E-CD1A-472C-834E-9684C4E8D164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC51E1E-CD1A-472C-834E-9684C4E8D164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8316E2-D519-4FE6-9FEF-C1C116757DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8316E2-D519-4FE6-9FEF-C1C116757DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8316E2-D519-4FE6-9FEF-C1C116757DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8316E2-D519-4FE6-9FEF-C1C116757DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6432C391-3E38-4036-9EB7-4960E66992D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6432C391-3E38-4036-9EB7-4960E66992D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6432C391-3E38-4036-9EB7-4960E66992D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6432C391-3E38-4036-9EB7-4960E66992D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7287A8AE-D3DB-4BFD-85B0-4114462DB0CA}
+	EndGlobalSection
+EndGlobal
